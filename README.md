@@ -1,27 +1,27 @@
 # 🎬 Movie Explorer
 
 A responsive and interactive **Movie Explorer Web Application** built with **React.js**.
-Users can browse movies, search for specific movies, and view detailed information through an interactive modal.
+Users can browse movies, search for specific titles, and view detailed movie information through an interactive modal.
 
 ## 🚀 Live Demo
 
-🔗 **Live Website:** [Add your live website URL here]
+🔗 **Live Website:** https://movie-explorer-omega-blush.vercel.app/
 
 ## 📂 GitHub Repository
 
-🔗 **GitHub:** [Add your GitHub repository URL here]
+🔗 **GitHub:** https://github.com/ahasanulhaqueasad/movie-explorer
 
 ---
 
 ## ✨ Features
 
-* 🎬 Browse a collection of movies
+* 🎬 Browse movies
 * 🔍 Search movies by title
 * 📄 View detailed movie information
-* 🖼️ Display movie posters and information
+* 🖼️ Display movie posters
 * 🪟 Interactive movie details modal
 * 📱 Fully responsive design
-* ⚡ Fast and smooth user experience
+* ⚡ Smooth user experience
 * 🎨 Clean and modern UI
 * ❌ Handle unavailable movie images gracefully
 
@@ -42,45 +42,12 @@ Users can browse movies, search for specific movies, and view detailed informati
 
 ---
 
-## 📦 NPM Packages
-
-The project uses several useful packages:
-
-* React
-* React DOM
-* Tailwind CSS
-* DaisyUI
-
----
-
-## 🏗️ Project Structure
-
-```text
-src/
-│
-├── components/
-│   ├── Header.jsx
-│   ├── SearchBar.jsx
-│   ├── MovieCard.jsx
-│   ├── MovieGrid.jsx
-│   └── MovieModal.jsx
-│
-├── data/
-│   └── movies.js
-│
-├── App.jsx
-├── main.jsx
-└── index.css
-```
-
----
-
-## 💻 Installation & Setup
+## 📦 Installation & Setup
 
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/ahasanulhaqueasad/movie-explorer.git
 ```
 
 ### 2. Go to the project directory
@@ -101,35 +68,27 @@ npm install
 npm run dev
 ```
 
-The application will then run on the local development server.
-
 ---
 
 ## 🔎 How It Works
 
 ### Movie Browsing
 
-The application displays available movies in a responsive grid layout. Each movie card contains information such as:
-
-* Movie poster
-* Movie title
-* Release year
-* Genre
-* Rating
+The application displays movies in a responsive grid layout. Each movie card contains relevant movie information.
 
 ### Movie Search
 
-Users can type a movie title into the search field. The application filters the movie collection and displays matching results.
+Users can search for a specific movie by entering its title in the search field. Matching movies are displayed dynamically.
 
 ### Movie Details
 
-Clicking on a movie card opens an interactive modal containing more detailed information about the selected movie.
+Clicking on a movie card opens an interactive modal where users can view detailed information about the selected movie.
 
 ---
 
 ## 📱 Responsive Design
 
-The application is designed to work smoothly on:
+The application is responsive and works across:
 
 * 📱 Mobile devices
 * 📲 Tablets
@@ -140,10 +99,11 @@ The application is designed to work smoothly on:
 
 ## 🎯 Assignment Objective
 
-The main objective of this project is to practice building a real-world React application using:
+This project was developed to practice real-world React development, including:
 
 * Component-based architecture
-* React state management
+* React Hooks
+* State management
 * Event handling
 * Conditional rendering
 * Array methods
@@ -157,7 +117,7 @@ The main objective of this project is to practice building a real-world React ap
 
 **Md Ahasanul Haque Ashad**
 
-Frontend / Full Stack Developer
+Full Stack Developer
 
 ### Skills
 
